@@ -1,0 +1,42 @@
+body {
+  background-color: rgba(54, 67, 250, 0.747);
+  padding : 7% 15%;
+}
+
+h1{
+  color: aliceblue;
+  text-align: center;
+}
+
+img {
+  width: 35%;
+}
+
+.container{
+  color: aliceblue;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+
+}
+
+.player1{
+  color: aliceblue;
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+}
+
+.player2{
+  color: aliceblue;
+  display: inline-block;
+  text-align: center;
+  width: 30%;
+
+}
+
+.footer {
+  color: aliceblue;
+  margin-top: 200px;
+  text-align: center;
+}
